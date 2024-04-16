@@ -4,7 +4,7 @@
 
 | **Nombre y Apellidos** |         **Correo**         |               **GitHub**               |
 | :--------------------: | :------------------------: | :------------------------------------: |
-|  Ulises Cenoz Zacarías | ulises.cenoz@gmail.com |   |     (https://github.com/ArielXL)       |
+|  Ulises Cenoz Zacarías | ulises.cenoz@gmail.com |   |     (https://github.com/Evergardenx/Evergardenx.github.io)       |
 
 ## Desarrollador Web Full-stack
 
@@ -12,5 +12,5 @@ El término "full-stack" se refiere a un desarrollador que tiene habilidades tan
 
 ## Link
 
-Puedes acceder a él y verlo en la web haciendo click [aquí](https://ArielXL.github.io/portafolio-web-developer).
+Puedes acceder a él y verlo en la web haciendo click [aquí](https://evergardenx.github.io/).
 
