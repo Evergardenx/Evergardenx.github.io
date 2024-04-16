@@ -4,7 +4,7 @@
 
 | **Nombre y Apellidos** |         **Correo**         |               **GitHub**               |
 | :--------------------: | :------------------------: | :------------------------------------: |
-|  Ulises Cenoz Zacarías | ulises.cenoz@gmail.com |   |     (@evergardenx)       |
+|  Ulises Cenoz Zacarías | ulises.cenoz@gmail.com |   |            (@evergardenx) |            |
 
 ## Desarrollador Web Full-stack
 
