@@ -36,6 +36,10 @@
                 color: #c4302b
             .github
                 color: #333333
+            .whatsapp
+                color: #25D366 // Verde para WhatsApp
+            .email
+                color: #007bff // Azul para el correo electrónico
             .social:hover 
                 i
                     transform: scale(1.3)
@@ -48,6 +52,9 @@
                 transform: rotate(45deg)
                 left: -110%
                 top: 90%
+                background: #25D366 // Verde para WhatsApp
+                .email & // Selecciona el pseudo-elemento antes de .social.email:hover
+                    background: #007bff // Azul para el correo electrónico
             .linkedin::before
                 background: #0e76a8
             .instagram::before

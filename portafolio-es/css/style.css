@@ -454,6 +454,14 @@ h1, h2, h3, h4, h5, h6, p {
 .footer .contenedor .redes-sociales .github {
   color: #333333;
 }
+.footer .contenedor .redes-sociales .whatsapp {
+  color: #25D366; /* Verde */
+}
+
+.footer .contenedor .redes-sociales .email {
+  color: #007bff; /* Azul */
+}
+
 .footer .contenedor .redes-sociales .social:hover i {
   transform: scale(1.3);
   color: #ffffff;
@@ -481,6 +489,12 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .footer .contenedor .redes-sociales .github::before {
   background: #333333;
+}
+.footer .contenedor .redes-sociales .whatsapp::before{
+  background: #25D366;
+}
+.footer .contenedor .redes-sociales .email::before{
+  background: #007bff;
 }
 .footer .contenedor .redes-sociales .social:hover::before {
   animation: aaa 0.7s 1;
