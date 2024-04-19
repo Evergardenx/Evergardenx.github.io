@@ -299,6 +299,12 @@ h1, h2, h3, h4, h5, h6, p {
 .main .proyectos .contenedor-proyectos .proyecto .info p .sass {
   color: #CC6699;
 }
+.main .proyectos .contenedor-proyectos .proyecto .info p .nodejs {
+  color: #6CC24A;
+}
+.main .proyectos .contenedor-proyectos .proyecto .info p .php {
+  color: #4F5D95;
+}
 .main .proyectos .contenedor-proyectos .proyecto .info .foto img {
   width: 100%;
   height: 11.25rem;
