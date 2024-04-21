@@ -311,6 +311,9 @@ h1, h2, h3, h4, h5, h6, p {
 .main .proyectos .contenedor-proyectos .proyecto .info p .react {
   color: #E5853B;
 }
+.main .proyectos .contenedor-proyectos .proyecto .info p .api {
+  color: #8B78E6;
+}
 .main .proyectos .contenedor-proyectos .proyecto .info .foto img {
   width: 100%;
   height: 11.25rem;
