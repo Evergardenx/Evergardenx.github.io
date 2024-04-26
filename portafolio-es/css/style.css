@@ -334,18 +334,19 @@ h1, h2, h3, h4, h5, h6, p {
 .main .conocimientos .contenedor .contenedor-conocimientos .tarjeta {
   margin: 4rem auto 0 auto;
   position: relative;
-  width: 18.75rem;
-  height: 25rem;
+  width: 15rem; /* Nuevo ancho */
+  height: 20rem; /* Nuevo alto */
   background: #262626;
   overflow: hidden;
 }
+
 .main .conocimientos .contenedor .contenedor-conocimientos .tarjeta input,
 .main .conocimientos .contenedor .contenedor-conocimientos .tarjeta .cambio {
   position: absolute;
-  width: 3.125rem;
-  height: 3.125rem;
-  bottom: 1.25rem;
-  right: 1.25rem;
+  width: 2.5rem; /* Nuevo ancho */
+  height: 2.5rem; /* Nuevo alto */
+  bottom: 1rem; /* Ajustado según el nuevo tamaño */
+  right: 1rem; /* Ajustado según el nuevo tamaño */
   outline: none;
   z-index: 10;
 }
@@ -370,7 +371,7 @@ h1, h2, h3, h4, h5, h6, p {
   background: #ffffff;
   transition: 0.5s;
   text-align: center;
-  line-height: 3.125rem;
+  line-height: 2.5rem; /* Centra verticalmente */
   font-size: 1.9375rem;
   box-shadow: 0 0 0 0px #393939;
 }
