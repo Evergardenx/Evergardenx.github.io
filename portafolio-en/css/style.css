@@ -302,6 +302,14 @@ h1, h2, h3, h4, h5, h6, p {
   margin-top: -1.0rem; /* Modifica el espaciado entre párrafos */
 }
 
+.main .proyectos .contenedor-proyectos .proyecto:nth-child(5) .info .tech p {
+  margin-top: -1.0rem; /* Modifica el espaciado entre párrafos */
+}
+
+.main .proyectos .contenedor-proyectos .proyecto:nth-child(5) .info .tech h5 {
+  margin-top: -1.0rem; /* Ajusta el valor según sea necesario */
+}
+
 .main .proyectos .contenedor-proyectos .proyecto .info p {
   text-align: center;
   font-size: 0.9rem;
