@@ -279,6 +279,29 @@ h1, h2, h3, h4, h5, h6, p {
   font-size: 1.1rem;
   font-weight: normal;
 }
+
+.main .proyectos .contenedor-proyectos .proyecto:nth-child(8) .info .tech p {
+  margin-top: -1.0rem; /* Modifica el espaciado entre párrafos */
+}
+
+.main .proyectos .contenedor-proyectos .proyecto:nth-child(6) .info .tech p {
+  margin-top: -1.0rem; /* Modifica el espaciado entre párrafos */
+}
+
+.main .proyectos .contenedor-proyectos .proyecto:nth-child(10) .info .tech p {
+  margin-top: -1.0rem; /* Modifica el espaciado entre párrafos */
+}
+
+
+.main .proyectos .contenedor-proyectos .proyecto:nth-child(11) .info .tech p {
+  margin-top: -1.0rem; /* Modifica el espaciado entre párrafos */
+}
+
+
+.main .proyectos .contenedor-proyectos .proyecto:nth-child(12) .info .tech p {
+  margin-top: -1.0rem; /* Modifica el espaciado entre párrafos */
+}
+
 .main .proyectos .contenedor-proyectos .proyecto .info p {
   text-align: center;
   font-size: 0.9rem;
