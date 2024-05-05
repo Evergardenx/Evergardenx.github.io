@@ -314,6 +314,12 @@ h1, h2, h3, h4, h5, h6, p {
 .main .proyectos .contenedor-proyectos .proyecto .info p .api {
   color: #8B78E6;
 }
+.main .proyectos .contenedor-proyectos .proyecto .info p .laravel {
+  color: #757575; /* Gris */
+}
+.main .proyectos .contenedor-proyectos .proyecto .info p .python {
+  color: #FFEB3B; /* Amarillo */
+}
 .main .proyectos .contenedor-proyectos .proyecto .info .foto img {
   width: 100%;
   height: 11.25rem;
